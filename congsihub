@@ -1,7 +1,0 @@
--- this script created at https://hoannhatz.github.io/ezscript
-getgenv().ScriptTitle = "congdigai"
-getgenv().ScriptSubTitle = "hoang"
-getgenv().ScriptImage = "IMAGE_URL_HERE"
-getgenv().ScriptAuthorName = "Công 7B"
-getgenv().ScriptAuthorSubTitle = "công dí gái "
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
